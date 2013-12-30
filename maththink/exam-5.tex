@@ -1,0 +1,21 @@
+\documentclass[12pt]{article}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+
+5. Prove that for any integer $n$, at least one of the integers $n, n+2, n+4$ is divisible by 3.\newline
+
+Proof: Let $n$ be an arbitrary integer. Then by the Division Theorem we have that one of $n$, $n+2$, or $n+4$ must be equal to $3q + r$, where $[0 \leq r < 3]$.\newline
+
+So there are 3 cases to consider.\newline
+
+$r=0$, then $n$ is divisable by 3 and we are done.\newline
+
+$r=1$, then we can add 2 to $n$ so that $q$ becomes $q+1$ and $r=0$, hence $n+2$ is divisible by 3.\newline
+
+$r=2$, then we can add 4 to $n$ so that $q$ becomes $q+2$ and $r=0$, hence $n+4$ is divisible by 3.\newline
+
+One of the three cases must hold, so the statement is proved.
+
+\end{document}
