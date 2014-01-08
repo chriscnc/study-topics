@@ -11,3 +11,7 @@ http://en.wikipedia.org/wiki/Functor
 
 Curry-Howard isomorphism
 http://en.m.wikibooks.org/wiki/Haskell/The_Curry-Howard_isomorphism
+
+
+Demotational Semantics
+http://en.m.wikibooks.org/wiki/Haskell/Denotational_semantics
