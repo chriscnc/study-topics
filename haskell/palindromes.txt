@@ -1,0 +1,6 @@
+hehe
+not a palindrome
+ABCBA
+palindrome
+cookie
+not a palindrome
