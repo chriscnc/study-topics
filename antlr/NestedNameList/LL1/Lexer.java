@@ -1,3 +1,4 @@
+package cnc
 
 public abstract class Lexer {
 	public static final char EOF = (char)-1;
