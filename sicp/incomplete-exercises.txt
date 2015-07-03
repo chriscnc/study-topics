@@ -1,0 +1,19 @@
+1.7 - improved good-enough? function
+1.11 - iterative version
+1.12 - pascal's triangle
+1.13 - proof that Fib(n) is the closest integer to phi^n/sqrt(5)
+1.15 - part b
+1.16 - skipped
+1.18 - skipped
+1.19 - skipped
+1.22 - 1.28 - skipped - prime number stuff
+1.29 - skipped
+1.35-1.39 - skipped (fixed-point and continued fraction mathematics)
+1.40 - skipped
+1.44 - 1.46 -skipped
+2.6 - skipped
+2.7 - 2.16 (section 2.1.4 extended example) skipped
+2.39-2.52 - skipped
+2.57-2.58 - skipped
+2.64-2.65 - skipped
+2.69-2.72 - skipped
